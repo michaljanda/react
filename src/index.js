@@ -1,1 +1,1 @@
-document.write("Yep1");
+import { createStore } from 'redux';
